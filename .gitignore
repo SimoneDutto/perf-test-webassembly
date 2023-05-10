@@ -1,0 +1,6 @@
+target/
+pkg/
+.vscode/
+dist/*.wasm
+dist/*.js
+node_modules/
